@@ -1,0 +1,40 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+    <channel>
+        <title>Private Feed</title>
+        <link>https://jwd-999.github.io</link>
+        <image>
+            <url>https://jwd-999.github.io/Manoel.jpg</url>
+            <title>Private Feed</title>
+            <link>https://jwd-999.github.io/Manoel.jpg</link>
+        </image>
+        <description>
+            Private Podcast Feed
+        </description>
+        <language>en-us</language>
+        <copyright>None</copyright>
+        <itunes:image href="https://jwd-999.github.io/Manoel.jpg"/>
+         <rawvoice:rating>TV-G</rawvoice:rating>
+        <itunes:category text="Education"/>
+        <item>
+          <title>Industrial Society and Its Future</title>
+          <pubDate>Thru, 17 Aug 2023 16:00:00 PDT</pubDate>
+          <description>Industrial Society and Its Future, also known as the Unabomber Manifesto, is a 1995 anti-technology essay by Ted Kaczynski, the "Unabomber". The manifesto contends that the Industrial Revolution began a harmful process of natural destruction brought about by technology, while forcing humans to adapt to machinery, creating a sociopolitical order that suppresses human freedom and potential. The 35,000-word manifesto formed the ideological foundation of Kaczynski's 1978–1995 mail bomb campaign, designed to protect wilderness by hastening the collapse of industrial society.</description>
+          <enclosure url="https://www.dropbox.com/scl/fi/9p43p4lgnvrww0a4d5zwy/Industrial-Society-and-its-Future.mp3?dl=1&amp;rlkey=9c35uwlbonvwv1cql91qgsy5l" length="34216300" type="audio/mpeg"/>
+          <guid isPermaLink="false">pod01</guid>
+        </item>
+        <item>
+          <title>Anthem</title>
+          <pubDate>Sun, 19 May 2024 16:00:00 PDT</pubDate>
+          <description>Anthem by Ayn Rand</description>
+          <enclosure url="https://archive.org/download/Anthem_489/Anthem.m4b"/>
+          <guid isPermaLink="false">pod02</guid>
+        </item>
+        <item>
+          <title>Slaughterhouse-Five</title>
+          <pubDate>Sun, 23 June 2024 16:00:00 EST</pubDate>
+          <description>Slaughterhouse-Five by Kurt Vonnegut</description>
+          <enclosure url="https://www.dropbox.com/scl/fi/33ovljak05hse3hm0v2lf/Slaughterhouse-Five.mp3?rlkey=fv1e8hd7wxx58hxvgcbi0tuz6&st=q0vz8zuj&dl=0" length="0" type="audio/mpeg"/>
+          <guid isPermaLink="false">pod03</guid>
+        </item>
+    </channel>
+</rss>
