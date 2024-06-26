@@ -36,5 +36,19 @@
           <enclosure url="https://www.dropbox.com/scl/fi/33ovljak05hse3hm0v2lf/Slaughterhouse-Five.mp3?rlkey=fv1e8hd7wxx58hxvgcbi0tuz6&amp;st=q0vz8zuj&amp;dl=0" length="0" type="audio/mpeg"/>
           <guid isPermaLink="false">pod03</guid>
         </item>
+        <item>
+          <title>Blood Enough For Us All</title>
+          <pubDate>Wed, 26 June 2024 16:00:00 EST</pubDate>
+          <description> Blood Enough For Us All - mewithYou demo album
+00:00.000 1. The Comfort You Give Is Only Torment
+01:35.977 2. Flamethrower
+04:19.977 3. Working In A Factor
+06:00.977 4. I Dare You To Pick Someone To Fight Me
+08:19.977 5. There Is Hope For A Tree Cut Down
+13:46.977 6. Song For A Rapist
+</description>
+          <enclosure url="https://www.dropbox.com/scl/fi/12q7zdtjfb2nwpn6dbzsv/Blood-Enough-For-Us-All.mp3?rlkey=413bfscro43jufo0btjkoq0lu&amp;st=mq7wtb6i&amp;dl=0" length="0" type="audio/mpeg"/>
+          <guid isPermaLink="false">pod03</guid>
+        </item>
     </channel>
 </rss>
